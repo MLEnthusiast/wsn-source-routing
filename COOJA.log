@@ -1,0 +1,42 @@
+[01:20:02 - AWT-EventQueue-0] [Cooja.java:2855] [INFO] - External tools default settings: /external_tools_linux.config
+[01:20:02 - AWT-EventQueue-0] [Cooja.java:2885] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[01:20:08 - AWT-EventQueue-0] [Simulation.java:421] [INFO] - Simulation random seed: 123456
+[01:20:08 - AWT-EventQueue-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[01:20:34 - AWT-EventQueue-0] [Cooja.java:4136] [WARN] - Path is not portable: '/home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:20:39 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:20:40 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:20:40 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:20:40 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:20:40 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:22:23 - Thread-1] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497741743199
+[01:28:57 - Thread-1] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497742137358	Duration: 394159 ms	Simulated time 393016 ms	Ratio 0.9971001550135858
+[01:30:58 - Thread-2] [Cooja.java:4136] [WARN] - Path is not portable: '/home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [Simulation.java:421] [INFO] - Simulation random seed: 123456
+[01:30:59 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/wsnlab/Project/sample/build/telosb/main.exe
+[01:30:59 - Thread-2] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[01:31:02 - Thread-3] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497742262902
+[01:32:58 - Thread-3] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497742378912	Duration: 116010 ms	Simulated time 42392 ms	Ratio 0.3654167744159986
+[01:34:32 - Thread-4] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497742472017
+[01:41:42 - Thread-4] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497742902787	Duration: 430770 ms	Simulated time 85449 ms	Ratio 0.1983633957796504
+[01:44:09 - Thread-5] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743049845
+[01:51:27 - Thread-5] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743487772	Duration: 437927 ms	Simulated time 294350 ms	Ratio 0.672143987468231
+[01:51:29 - Thread-6] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743489374
+[01:51:29 - Thread-6] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743489378	Duration: 4 ms	Simulated time 294351 ms	Ratio 73587.75
+[01:51:30 - Thread-7] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743490866
+[01:51:30 - Thread-7] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743490870	Duration: 4 ms	Simulated time 294352 ms	Ratio 73588.0
+[01:51:31 - Thread-8] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743491458
+[01:51:31 - Thread-8] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743491462	Duration: 4 ms	Simulated time 294353 ms	Ratio 73588.25
+[01:51:31 - Thread-9] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743491993
+[01:51:31 - Thread-9] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743491997	Duration: 4 ms	Simulated time 294354 ms	Ratio 73588.5
+[01:51:32 - Thread-10] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743492491
+[01:51:32 - Thread-10] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743492495	Duration: 4 ms	Simulated time 294355 ms	Ratio 73588.75
+[01:51:32 - Thread-11] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743492874
+[01:51:32 - Thread-11] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743492878	Duration: 4 ms	Simulated time 294356 ms	Ratio 73589.0
+[01:51:33 - Thread-12] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743493752
+[01:51:33 - Thread-12] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743493756	Duration: 4 ms	Simulated time 294357 ms	Ratio 73589.25
+[01:51:34 - Thread-13] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1497743494533
+[01:52:06 - Thread-13] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1497743526236	Duration: 31703 ms	Simulated time 461697 ms	Ratio 14.563195912058795
